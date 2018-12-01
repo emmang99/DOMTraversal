@@ -1,0 +1,23 @@
+{
+  "name": "domtraversal",
+  "version": "1.0.0",
+  "description": "We get some practice on using javascript to traverse the DOM structure of our pages",
+  "main": "tentacles.js",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Plasnid/domTraversal.git"
+  },
+  "author": "Stuart Sackler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Plasnid/domTraversal/issues"
+  },
+  "homepage": "https://github.com/Plasnid/domTraversal#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
